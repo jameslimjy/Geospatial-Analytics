@@ -1,6 +1,6 @@
 # Geospatial-Analytics
 
-This school project was a collaboration with an International Food Chain (IFC) that has more than 16,000 outlets in over 100 countries and with a staff team of around 300,000 members. For this project, my team and I narrowed our scope to their Taiwan outlets, in specific 11 outlets in the region of Taoyuan. The documentation of this project can be found [here](https://wiki.smu.edu.sg/1920t1smt201/G2-Group01_WebMaps).
+This school project was a collaboration with an International Food Chain (IFC) that has more than 16,000 outlets in over 100 countries and with a staff team of around 300,000 members. For this project, my team and I narrowed our scope to their Taiwan outlets, in specific 11 outlets in the region of Taoyuan. More information regarding this project can be found [here](https://wiki.smu.edu.sg/1920t1smt201/G2-Group01_WebMaps).
 
 The IFC currently relies on a tedious method of manually delineating the trade areas of their outlets. This approach is not only inefficient but limits the amount of analysis that can be done. Through utilizing QGIS, we hope to not only explore if there is merit in using a GIS tool to digitize their current processes, but also analyze the correlation between certain Points Of Interest (POI) and sales revenue. Thus, this project focused on these three main aspects: buffering, sales revenue and network analysis.
 
